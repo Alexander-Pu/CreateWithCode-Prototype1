@@ -1,2 +1,3 @@
-# CreateWithCode-Prototype1
-Unity's Create With Code - Prototype 1
+# Unity Pathway - Junior Programmer
+
+Me doing Unity's Junior Programmer Pathway for fun
